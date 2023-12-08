@@ -1,0 +1,10 @@
+Lib/
+Include/
+.chainlit/
+pyvenv.cfg
+Scripts/
+share/
+models/
+__pycache__/
+kubectl.exe
+models/
